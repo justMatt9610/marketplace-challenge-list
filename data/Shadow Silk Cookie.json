@@ -7,5 +7,12 @@
   "verification": "https://youtu.be/v9OhiyWfwyA",
   "percentToQualify": "100",
   "password": "free to copy",
-  "records": []
+  "records": [
+    {
+      "user": "cinnamings",
+      "link": "none",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }

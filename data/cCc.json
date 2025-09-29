@@ -13,12 +13,12 @@
       "link": "none",
       "percent": 100,
       "hz": 240
-    }
+    },
     {
       "user": "SilkGMD",
       "link": "none",
       "percent": 100,
-      "hz": 480
+      "hz": CBF
     }
   ]
 }

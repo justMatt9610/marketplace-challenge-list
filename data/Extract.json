@@ -2,12 +2,23 @@
   "id": 126520153,
   "name": "Extract",
   "author": "HLHL",
-  "creators": [
-    "HLHL"
-  ],
+  "creators": ["HLHL"],
   "verifier": "HLHL",
   "verification": "https://www.youtube.com/watch?v=swVAjqkAYSI",
   "percentToQualify": "100",
   "password": "free to copy",
-  "records": []
+  "records": [
+    {
+      "user": "Cinnamings",
+      "link": "https://www.youtube.com/watch?v=3ImaTSQaB9A",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "SilkGMD",
+      "link": "https://youtu.be/qlGnfBdScWI",
+      "percent": 100,
+      "hz": 480
+    }
+  ]
 }

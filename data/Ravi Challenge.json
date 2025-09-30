@@ -5,7 +5,7 @@
   "creators": ["GD Quasar"],
   "verifier": "JTB_Games",
   "verification": "https://www.youtube.com/watch?v=YvRS5ALQN_M&pp=ygUbc3RyYWlnaHQgZmx5aW5nIG1pbmkgcXVhc2Fy",
-  "percentToQualify": "100",
+  "percentToQualify": "99",
   "password": "free to copy",
   "records": [
     { "user": "SilkGMD", "link": "none", "percent": 100, "hz": 480 },

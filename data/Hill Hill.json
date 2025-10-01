@@ -1,4 +1,4 @@
-{
+{ 
   "id": 126422430,
   "name": "Hill Hill",
   "author": "HLHL",
@@ -13,6 +13,12 @@
       "link": "none",
       "percent": 100,
       "hz": 240
+    },
+    {
+      "user": "silkgmd",
+      "link": "none",
+      "percent": 100,
+      "hz": 480
     }
   ]
 }
